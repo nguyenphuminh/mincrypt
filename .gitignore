@@ -1,3 +1,6 @@
+# Prevent uploading keys by accident
+keys.json
+
 # Logs
 logs
 *.log
