@@ -61,6 +61,6 @@ Paste your friend's encrypted messages in and it will print out the decrypted ve
 
 ## Copyright and License
 
-Copyright © 2025 Nguyen Phu Minh.
+Copyright © 2026 Nguyen Phu Minh.
 
 This project is licensed under the MIT License.
